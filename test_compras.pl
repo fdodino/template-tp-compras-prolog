@@ -8,10 +8,10 @@
 */
 
 
-:- include(viajes).
+:- include(compras).
 
-:-begin_tests(viajes).
+:-begin_tests(compras).
 
 test(test_dummy, nondet):-2 is 1 + 1.
 
-:-end_tests(viajes).
+:-end_tests(compras).

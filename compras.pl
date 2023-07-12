@@ -1,1 +1,1 @@
-% Viajes
+% Compras
